@@ -10,7 +10,7 @@ export const footerLinks: FooterConfig = {
   messages: {
     heading: "Frenzz",
     subscribe: "Subscribe to get special offers and updates",
-    description: "We are group of creators and make trends on social media",
+    description: "Building the Future of Social Media One Viral Moment at a Time",
     copyright: "Copyright © 2025 frenzz All Rights Reserved.",
   },
   // list of sections
